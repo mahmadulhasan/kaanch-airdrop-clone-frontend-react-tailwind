@@ -1,16 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1920" height="1212" alt="screencapture-192-168-50-123-5173-2025-11-18-12_25_25" src="https://github.com/user-attachments/assets/3ff558fd-5eca-45fd-81cc-c399424cf393" />
+<img width="1920" height="1455" alt="screencapture-192-168-50-123-5173-bridge-2025-11-18-12_25_49" src="https://github.com/user-attachments/assets/fe13dea5-a666-43d1-ad0f-fc9d54db92b5" />
+<img width="1920" height="1833" alt="screencapture-192-168-50-123-5173-leaderboard-2025-11-18-12_26_02" src="https://github.com/user-attachments/assets/1c935e34-8292-4d86-99bb-8c7bb7fbe032" />
+<img width="1920" height="7383" alt="screencapture-192-168-50-123-5173-earn-point-2025-11-18-12_26_18" src="https://github.com/user-attachments/assets/80434920-ac5a-4e2c-8e39-2a0685da83f7" />
+<img width="1920" height="3027" alt="screencapture-192-168-50-123-5173-ecosystem-2025-11-18-12_26_38" src="https://github.com/user-attachments/assets/1a1cc553-9e48-48e1-8c8f-0897d239fa7b" />
