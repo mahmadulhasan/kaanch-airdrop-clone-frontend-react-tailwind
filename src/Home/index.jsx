@@ -5,17 +5,26 @@ import OTPInput from "react-otp-input";
 const Index = () => {
   const [otp, setOtp] = useState("");
   const [download, setDownload] = useState(true);
-  useEffect(()=>{
-    if(download){
-      document.body.style.overflow="hidden"
-    }else{
-      document.body.style.overflow="auto"
+  useEffect(() => {
+    if (download) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "auto";
     }
-  },[download])
+  }, [download]);
 
   return (
     <main className="w-full min-h-screen flex items-center justify-center relative">
-      <div className="home"></div>
+      <div className="home">
+        <span class="ball"><img src="/public/coin-animation.png" alt="" /></span>
+        <span class="ball"><img src="/public/coin-animation2.png" alt="" /></span>
+        <span class="ball"><img src="/public/coin-animation.png" alt="" /></span>
+        <span class="ball"><img src="/public/coin-animation2.png" alt="" /></span>
+        <span class="ball"><img src="/public/coin-animation.png" alt="" /></span>
+        <span class="ball"><img src="/public/coin-animation2.png" alt="" /></span>
+        <span class="ball"><img src="/public/coin-animation.png" alt="" /></span>
+        <span class="ball"><img src="/public/coin-animation2.png" alt="" /></span>
+      </div>
       <div
         className={`absolute z-1000 flex items-center justify-center backdrop-blur-xs ${
           download ? "top-0 left-0 w-full h-screen " : "hidden"
